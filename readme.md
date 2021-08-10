@@ -7,3 +7,8 @@
 - Type ` npm install` to install all the dependencies.
 - Add all the env variables which is mentioned in ".env.example" file
 - Type `npm run build:dev`
+
+
+# Postman collection to test
+- Download postman collection from below url
+https://www.getpostman.com/collections/2aae7bf51c58334b077b
